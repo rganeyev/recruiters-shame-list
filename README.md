@@ -1,1 +1,6 @@
-# recruiters-shame-list
+# Recruiters shame list
+
+
+| Name | company | Reason | Link |
+-------|---------|--------|------|
+|      |         |        |      |
